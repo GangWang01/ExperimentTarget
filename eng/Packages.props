@@ -6,8 +6,6 @@
     <PackageReference Update="NuGet.Configuration" Version="6.2.1" />
     <PackageReference Update="NuGet.Credentials" Version="6.2.1" />
     <PackageReference Update="NuGet.Protocol" Version="6.2.1" />
-    <!--see if this works-->
-    <!--what will happen if the branch FileSync/default is not deleted and main branch is not synced with upstream(target repo)-->
-    <!-- change the file -->
+    <!--Update after the first sync was merged into target repo-->
   </ItemGroup>
 </Project>
