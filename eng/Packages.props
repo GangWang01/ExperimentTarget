@@ -7,5 +7,6 @@
     <PackageReference Update="NuGet.Credentials" Version="6.2.1" />
     <PackageReference Update="NuGet.Protocol" Version="6.2.1" />
     <!--Update after the first sync was merged into target repo-->
+    <!--Test in target repo the branch used to commit is behind main branch -->
   </ItemGroup>
 </Project>
